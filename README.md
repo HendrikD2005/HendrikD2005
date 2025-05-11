@@ -3,7 +3,7 @@ My name is Hendrik and I am currently training to become a **Software Developer*
 
 **Let's network & exchange ideas!** 🔥
 
-# Skills
+# 💻 Skills
 ### Backend Technologies
 ![COBOL](https://img.shields.io/badge/COBOL-%23007A5E.svg?style=flat-square&logo=cobol&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -29,3 +29,7 @@ My name is Hendrik and I am currently training to become a **Software Developer*
 ### Miscellaneous
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+
+# ✍️ Dev Quote
+"The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise."
+<p>~ Edsger W. Dijkstra</p>
