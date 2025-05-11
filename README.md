@@ -1,5 +1,5 @@
 # 👋 Welcome
-My name is Hendrik and I am currently training to become a **Software Developer** in Hannover.
+My name is Hendrik and I am currently training to become a **Software Developer**!
 
 **Let's network & exchange ideas!** 🔥
 
