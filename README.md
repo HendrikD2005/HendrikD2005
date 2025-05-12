@@ -33,6 +33,5 @@ My name is Hendrik and I am currently training to become a **Software Developer*
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
-# ✍️ Dev Quote
-"The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise."
-<p>~ Edsger W. Dijkstra</p>
+# 📊 Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HendrikD2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
