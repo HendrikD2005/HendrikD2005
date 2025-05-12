@@ -3,14 +3,23 @@ My name is Hendrik and I am currently training to become a **Software Developer*
 
 **Let's network & exchange ideas!** 🔥
 
-# 💻 Skills
+# 💻 Skills 
 ### Backend Technologies
-![COBOL](https://img.shields.io/badge/COBOL-%23007A5E.svg?style=flat-square&logo=cobol&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Das zweite Div (Shields) -->
+  <div align="left" style="margin-bottom: 50px;">
+    <img src="https://img.shields.io/badge/COBOL-%23007A5E.svg?style=flat-square&logo=cobol&logoColor=white" alt="COBOL">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot">
+  </div>
+  <!-- Das erste Div (GitHub Stats) -->
+  <div align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendrikD2005&layout=compact">
+  </div>
+</div>
 
 ### Frontend Technologies
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -20,6 +29,8 @@ My name is Hendrik and I am currently training to become a **Software Developer*
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff)](#)
+
+
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
@@ -33,5 +44,3 @@ My name is Hendrik and I am currently training to become a **Software Developer*
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
-# 📊 Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HendrikD2005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
