@@ -36,6 +36,4 @@ My name is Hendrik and I am currently training to become a **Software Developer*
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
 # 📊 Statistics
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendrikD2005&layout=compact">
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HendrikD2005&hide_progress=false)
