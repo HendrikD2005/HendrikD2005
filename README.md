@@ -11,7 +11,7 @@ My name is Hendrik and I am currently training to become a **Software Developer*
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff" alt="Spring">
   </div>
 
 ### Frontend Technologies
