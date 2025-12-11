@@ -3,6 +3,8 @@ My name is Hendrik and I am currently training to become a **Software Developer*
 
 **Let's network & exchange ideas!** 🔥
 
+Secondary GitHub: https://github.com/1337Nirflector/
+
 # 💻 Skills 
 ### Backend Technologies
   <div>
