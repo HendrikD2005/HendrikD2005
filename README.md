@@ -37,6 +37,3 @@ Secondary GitHub: https://github.com/1337Nirflector/
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-
-# 📊 Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HendrikD2005&hide_progress=false)
