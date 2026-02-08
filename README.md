@@ -14,6 +14,7 @@ Secondary GitHub: https://github.com/1337Nirflector/
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff" alt="Spring">
+    <img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff" alt="JUnit">
   </div>
 
 ### Frontend Technologies
