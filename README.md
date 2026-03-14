@@ -1,5 +1,5 @@
 # 👋 Welcome
-My name is Hendrik and I am currently training to become a **Software Developer**!
+My name is Hendrik and I am a **Full Stack Software Developer**!
 
 **Let's network & exchange ideas!** 🔥
 
