@@ -8,12 +8,12 @@ Secondary GitHub: https://github.com/1337Nirflector/
 # 💻 Skills 
 ### Backend Technologies
   <div>
-    <img src="https://img.shields.io/badge/COBOL-%23007A5E.svg?style=flat-square&logo=cobol&logoColor=white" alt="COBOL">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff" alt="Spring">
     <img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff" alt="JUnit">
+    <img src="https://img.shields.io/badge/COBOL-%23007A5E.svg?style=flat-square&logo=cobol&logoColor=white" alt="COBOL">
   </div>
 
 ### Frontend Technologies
