@@ -23,6 +23,7 @@ Secondary GitHub: https://github.com/1337Nirflector/
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)](#)
+[![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff)](#)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
