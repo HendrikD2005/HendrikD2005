@@ -3,7 +3,7 @@ My name is Hendrik and I am a **Full Stack Software Developer**!
 
 **Let's network & exchange ideas!** 🔥
 
-Secondary GitHub: https://github.com/1337Nirflector/
+Secondary GitHub (Dead): https://github.com/1337Nirflector/
 
 # 💻 Skills 
 ### Backend Technologies
