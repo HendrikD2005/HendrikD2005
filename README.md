@@ -11,7 +11,7 @@ Secondary GitHub (Dead): https://github.com/1337Nirflector/
 <img
   align="right"
   width="340"
-  src="https://readme-stats-delta-orcin.vercel.app/api/top-langs/?username=HendrikD2005&layout=donut-vertical&langs_count=8&theme=github_dark&hide_border=false&border_radius=12&border_color=30363d"
+  src="https://readme-stats-delta-orcin.vercel.app/api/top-langs/?username=HendrikD2005&layout=donut-vertical&langs_count=8&theme=github_dark&hide_border=false&border_radius=12&border_color=30363d&hide=JavaScript,Dart,CMake,CSS&size_weight=0.25&count_weight=0.75"
   alt="Most Used Languages"
 />
 
