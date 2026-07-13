@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-My name is Hendrik and I am a **Full Stack Software Developer**!
+My name is Hendrik and I am a **Software Developer**!
 
 **Let's network & exchange ideas!** 🔥
 
