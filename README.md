@@ -30,7 +30,7 @@ Secondary GitHub (Dead): https://github.com/1337Nirflector/
 
 <div>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS">
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS">
   <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff" alt="Chart.js">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js">
   <img src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff" alt="Vuetify">
@@ -55,7 +55,7 @@ Secondary GitHub (Dead): https://github.com/1337Nirflector/
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
   <br>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=black" alt="Jenkins">
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab CI">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab">
   <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power BI">
