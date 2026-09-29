@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-My name is Hendrik and I am a **Software Developer**!
+My name is Hendrik and I am a **Consultant** focused on AI & Platform Engineering, full-stack development and cloud-based delivery.
 
 **Let's network & exchange ideas!** 🔥
 
