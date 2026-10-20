@@ -38,12 +38,17 @@ Secondary GitHub (Dead): https://github.com/1337Nirflector/
   <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff" alt="MUI">
 </div>
 
-### Databases
+### AI Technologies
 
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL">
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" alt="Ollama">
+  <img src="https://img.shields.io/badge/Qwen-615EFF?logo=qwen&logoColor=fff" alt="Qwen">
+  <br>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot">
 </div>
 
 ### Miscellaneous
