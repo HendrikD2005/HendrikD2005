@@ -46,8 +46,8 @@ Secondary GitHub (Dead): https://github.com/1337Nirflector/
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face">
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini">
   <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" alt="Ollama">
-  <img src="https://img.shields.io/badge/Qwen-615EFF?logo=qwen&logoColor=fff" alt="Qwen">
   <br>
+  <img src="https://img.shields.io/badge/Qwen-615EFF?logo=qwen&logoColor=fff" alt="Qwen">
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot">
 </div>
 
