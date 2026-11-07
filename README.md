@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-My name is Hendrik and I am a **Consultant** focused on AI & Platform Engineering, full-stack development and cloud-based delivery.
+My name is Hendrik and I am a **Consultant** focused on AI & Platform Engineering. Apart from that, <br/>I produce media content such as Video games and Music.
 
 **Let's network & exchange ideas!** 🔥
 
