@@ -49,6 +49,7 @@ Secondary GitHub (Dead): https://github.com/1337Nirflector/
   <br>
   <img src="https://img.shields.io/badge/Qwen-615EFF?logo=qwen&logoColor=fff" alt="Qwen">
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/🚅%20LiteLLM-1E293B" alt="LiteLLM">
 </div>
 
 ### Miscellaneous
