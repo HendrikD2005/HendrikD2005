@@ -60,7 +60,6 @@ Secondary GitHub (Dead): https://github.com/1337Nirflector/
   <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff" alt="Terraform">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
   <img src="https://img.shields.io/badge/Backstage-9BF0E1?logo=backstage&logoColor=000" alt="Backstage">
-  <br>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=black" alt="Jenkins">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab">
   <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" alt="Canva">
