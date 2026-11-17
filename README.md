@@ -59,12 +59,16 @@ Secondary GitHub (Dead): https://github.com/1337Nirflector/
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Foundry-2822AD?logo=microsoft-foundry&logoColor=fff" alt="Microsoft Foundry">
   <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff" alt="Terraform">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
+  <img src="https://img.shields.io/badge/Backstage-9BF0E1?logo=backstage&logoColor=000" alt="Backstage">
   <br>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=black" alt="Jenkins">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab">
   <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="Power BI">
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?logo=adobexd&logoColor=FF61F6" alt="Adobe XD">
+  <br>
+  <img src="https://img.shields.io/badge/FL%20Studio-FF7F00?logo=flstudio&logoColor=fff" alt="FL Studio">
+  <img src="https://img.shields.io/badge/Filmora-07273D?logo=wondersharefilmora&logoColor=fff" alt="Filmora">
 </div>
-
 <br clear="both">
